@@ -1,0 +1,8 @@
+fastapi==0.75.0
+uvicorn==0.17.0
+selenium==4.1.0
+pydantic==1.8.2
+requests==2.25.1
+beautifulsoup4==4.9.3
+
+# pip install -r requirements.txt
