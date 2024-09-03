@@ -82,7 +82,7 @@ Backend/
 # 실행
 1. 리포지토리 복제
 ```bash
-git clone https://github.com/Songysp/PlanUP_frontend
+git clone https://github.com/Heeseon06/PlanUP_backend_Project
 
 ```
 
